@@ -1,4 +1,4 @@
-% pool analysis
+% calculating action-binding in all trials
 
 close all
 clear all

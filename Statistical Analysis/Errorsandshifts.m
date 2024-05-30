@@ -1,4 +1,8 @@
 %% calculating errors and shifts
+% errors are the difference between actual time of the occurance on an
+% event (cue/action/tone) and perceived time of that event
+% shifts are the difference between errors in base-line and operant
+% conditions
 
 close all
 thershold_60=30;

@@ -1,11 +1,12 @@
-% pool analysis
+% calculating the correlation of action-binding in participants and their
+% perceived rating of the annoting stimulus
 
 close all
 % clear all
 thershold_60=30;
 convert_fact=2560/60;
-add='C:\Users\Sajjad\Dropbox\Projects\On Going\Ahmad\Data\';
-% add='C:\Users\Sajjad\Dropbox\Projects\On Going\Ahmad\DataAnoying\';
+add='';
+
 names=dir(add);
 % per subject 
 Ann=[];

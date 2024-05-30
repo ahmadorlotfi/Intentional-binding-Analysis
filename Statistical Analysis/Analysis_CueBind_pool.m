@@ -1,4 +1,4 @@
-% pool analysis of cue-binding
+% calculating cue-binding in all trials
 
 close all
 

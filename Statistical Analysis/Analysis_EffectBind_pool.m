@@ -1,11 +1,11 @@
-% pool analysis
+% calculating effect-binding in all trials
 
 close all
 clear all
 thershold_60=30;
 convert_fact=2560/60;
 
-add='C:\Users\Sajjad\Dropbox\Projects\On Going\Ahmad\Data\'
+add=''
 names=dir(add);
 % per subject 
 

@@ -1,10 +1,10 @@
-% pool analysis of intentional-binding
+% calculating intentional-binding
 
 close all
 thershold_60=30;
 convert_fact=2560/60;
 
-add='C:\Users\a\Desktop\Ahmad\Data\';
+add='';
 names=dir(add);
 
 % per subject 

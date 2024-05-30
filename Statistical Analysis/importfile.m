@@ -1,5 +1,6 @@
-function S2 = importfile(workbookFile, sheetName, startRow, endRow)
+function S = importfile(workbookFile, sheetName, startRow, endRow)
 %% Input handling
+% this function imports the data from exel files
 
 % If no sheet is specified, read first sheet
 if nargin == 1 || isempty(sheetName)
